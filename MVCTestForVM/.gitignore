@@ -1,5 +1,6 @@
 ﻿# Rider-specific (JetBrains)
 .idea/
+**/.idea/
 *.sln.iml
 *.sln.DotSettings*
 .idea_modules/
