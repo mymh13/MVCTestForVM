@@ -57,6 +57,7 @@ project.nuget.g.targets
 # ASP.NET specific
 wwwroot/node_modules/
 wwwroot/lib/
+MVCTestForVM/wwwroot/lib/
 wwwroot/dist/
 client-app/node_modules/
 node_modules/
